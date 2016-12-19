@@ -353,7 +353,7 @@ D:\Java\jdk1.8.0_112\bin\java -Dmaven.multiModuleProjectDirectory=D:\msys64\home
 
 8080 ポートで Tomcat がリッスンしています。ブラウザからアクセスしてみます。
 
-![](images/intellij-tomcat10.jpg)
+![](images/intellij-tomcat11.jpg)
 
 
 アプリケーションが起動している事が確認できました。
