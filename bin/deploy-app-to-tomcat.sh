@@ -2,7 +2,7 @@
 
 if [ -z $1 ] || [ -z $2 ]; then
 	echo "usage: $0 <WAR PATH> <TOMCAT INSTALLED ROOT>"
-	exit -1
+	exit 1
 fi
 
 WAR_PATH=$1
