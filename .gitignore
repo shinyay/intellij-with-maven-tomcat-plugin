@@ -1,1 +1,2 @@
-maven/employees-app/.idea/
+maven/*/.idea/
+maven/*/target/
